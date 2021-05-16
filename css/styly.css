@@ -1,0 +1,31 @@
+.tlacitko1 {
+    transition:1000s;
+    background-color: rgb(16, 135, 182);
+    border-color: black;
+    color: white;
+    margin: 10px
+}
+
+.tlacitko2 {
+    transition:1000s;
+    background-color: green;
+    border-color: black;
+    color: white;
+    margin: 10px
+}
+
+.tlacitko3 {
+    transition:1000s;
+    background-color: yellowgreen;
+    border-color: black;
+    color: white;
+    margin: 10px
+}
+
+.tlacitko4 {
+    transition:1000s;
+    background-color: orangered;
+    border-color: black;
+    color: white;
+    margin: 10px
+}
